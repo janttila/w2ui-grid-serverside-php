@@ -3,11 +3,11 @@
 header('Content-type: text/plain; charset=utf-8');
 
 //Db
-$user = "webUser";
-$pass = "kuk";
-$host = "localhost";
-$DataBase = "hzihupqx_enercom";
-$tableName = "tblticket";
+$user = "Username";
+$pass = "Password";
+$host = "Host";
+$DataBase = "Database";
+$tableName = "TheTableName";
 
 $sqlFill = "";
  $sqlFill .= "SELECT ";
