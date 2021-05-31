@@ -1,5 +1,5 @@
 # w2ui-grid-serverside-php
-w2ui grid serverside php script
+w2ui grid serverside php script, swedish translation and contextmenu.
 
 You will need 
 http://w2ui.com/web/
